@@ -14,7 +14,7 @@ Plug 'dcampos/compe-snippy'
 You also need to enable the plugin:
 
 ```viml
-let g:compe.source.tabnine = v:true
+let g:compe.source.snippy = v:true
 ```
 
 Or (using Lua):
